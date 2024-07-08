@@ -172,3 +172,4 @@ poetry.lock
 # thumbnail cache on Windows
 Thumbs.db
 *.db
+*.bat
